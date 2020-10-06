@@ -25,4 +25,12 @@ Some awesome snippets for the data science community
   <td>Please note that only average word2vec and tfidf weighted word2vec is supported. Also, you need to download the pertrainined word2vec model. Use the following link <a href="https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz"> word2vec Model</a>. You can download this using wget command from terminal</td>
   </tr>
 
+  <tr>
+  <td> Once you train a tensorflow2 or keras model, if you want to see the loss vs epoch or accuracy vs epoch for both validation and training data, you can use this snippet.</td>
+  
+  <td> <a href="https://github.com/MayukhSobo/Awesome-Snippets/blob/main/display_performance.py">display_performance.py</a></td>
+  
+  <td>Keep in mind that this only works for classification problems where you have separate training and validation data. Moreover accuracy is a metric that you are actively tracking. May not work for some special kind of metric however can always be modified as the code is written in simple python.</td>
+  </tr>
+
 </table>
