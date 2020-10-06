@@ -41,4 +41,12 @@ Some awesome snippets for the data science community
   <td> This is still half baked and may not support all the libraries and their versions.</td>
   </tr>
 
+  <tr>
+  <td> This shows how one can use tesnsorflow dataset API for Image Classification taks</td>
+  
+  <td> <a href="https://github.com/MayukhSobo/Awesome-Snippets/blob/main/tfdataImage.ipynb"> tfdataImage.ipynb </a></td>
+  
+  <td>It would only work with tensorflow 2.3 or above </td>
+  </tr>
+
 </table>
