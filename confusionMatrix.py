@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.metrics import confusion_matrix
 
-def plot_confusion_matrix(actual, pred, threshold=15):
+def plot_confusion_matrix(actual, pred, threshold=15, palette=sns.light_palette('green')):
     C = confusion_matrix(actual, pred)
     print("Number of misclassified points ",(len(actual)-np.trace(C))/len(actual)*100)
     A = (((C.T)/(C.sum(axis=1))).T)
@@ -11,7 +11,7 @@ def plot_confusion_matrix(actual, pred, threshold=15):
     labels = list(np.unique(actual))
     if len(labels) > threshold:
         raise AttributeError(f"Threshold value should be less than {threshold}")
-    cmap=sns.light_palette("green")
+    cmap=palette
     # representing A in heatmap format
     print("-"*50, "Confusion matrix", "-"*50)
     plt.figure(figsize=(10,5))
