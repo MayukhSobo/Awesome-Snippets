@@ -36,7 +36,7 @@ Some awesome snippets for the data science community
   <tr>
   <td> This uses SOTA transformer models to get the text features. This is ideal for a lot of zero shot learning where we want to get BERT/GPT features of the text data.</td>
   
-  <td> <a href="https://raw.githubusercontent.com/MayukhSobo/Awesome-Snippets/main/display_performance.py">display_performance.py</a></td>
+  <td> <a href="https://raw.githubusercontent.com/MayukhSobo/Awesome-Snippets/main/transformerFeatures.py">transformerFeatures.py</a></td>
   
   <td> This is still half baked and may not support all the libraries and their versions.</td>
   </tr>
