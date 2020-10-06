@@ -28,7 +28,7 @@ Some awesome snippets for the data science community
   <tr>
   <td> Once you train a tensorflow2 or keras model, if you want to see the loss vs epoch or accuracy vs epoch for both validation and training data, you can use this snippet.</td>
   
-  <td> <a href="https://github.com/MayukhSobo/Awesome-Snippets/blob/main/display_performance.py">display_performance.py</a></td>
+  <td> <a href="https://raw.githubusercontent.com/MayukhSobo/Awesome-Snippets/main/display_performance.py">display_performance.py</a></td>
   
   <td>Keep in mind that this only works for classification problems where you have separate training and validation data. Moreover accuracy is a metric that you are actively tracking. May not work for some special kind of metric however can always be modified as the code is written in simple python.</td>
   </tr>
