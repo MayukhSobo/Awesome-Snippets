@@ -33,4 +33,12 @@ Some awesome snippets for the data science community
   <td>Keep in mind that this only works for classification problems where you have separate training and validation data. Moreover accuracy is a metric that you are actively tracking. May not work for some special kind of metric however can always be modified as the code is written in simple python.</td>
   </tr>
 
+  <tr>
+  <td> This uses SOTA transformer models to get the text features. This is ideal for a lot of zero shot learning where we want to get BERT/GPT features of the text data.</td>
+  
+  <td> <a href="https://raw.githubusercontent.com/MayukhSobo/Awesome-Snippets/main/display_performance.py">display_performance.py</a></td>
+  
+  <td> This is still half baked and may not support all the libraries and their versions.</td>
+  </tr>
+
 </table>
