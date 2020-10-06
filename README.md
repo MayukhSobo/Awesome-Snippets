@@ -1,6 +1,7 @@
 # Awesome-Snippets :heartbeat:
 Some awesome snippets for the data science community
 
+> Snippets with :fire: are used by me a lot
 
 <table style="width:70%">
   <tr>
