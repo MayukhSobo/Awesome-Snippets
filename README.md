@@ -48,5 +48,13 @@ Some awesome snippets for the data science community
   
   <td>It would only work with tensorflow 2.3 or above </td>
   </tr>
+  
+  <tr>
+  <td>  Well this is not much realted to data science but this code generates the test cases if you are interested in Competitive Programming. </td>
+  
+  <td> <a href="https://raw.githubusercontent.com/MayukhSobo/Awesome-Snippets/main/gene.py"> gene.py </a></td>
+  
+  <td>It may not work for all the types. Please raise a PR </td>
+  </tr>
 
 </table>
