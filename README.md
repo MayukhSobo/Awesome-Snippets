@@ -1,5 +1,5 @@
 # Awesome-Snippets :heartbeat:
-Some awesome snippets for the data science community
+Some awesome snippets for the Coding(Mostly Data science) community
 
 > Snippets with :fire: are used by me a lot
 
